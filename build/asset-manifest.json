@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/algocoretech.mernproject.github.io/static/css/main.b40a36e4.css",
+    "main.js": "/algocoretech.mernproject.github.io/static/js/main.c18acaae.js",
+    "index.html": "/algocoretech.mernproject.github.io/index.html",
+    "main.b40a36e4.css.map": "/algocoretech.mernproject.github.io/static/css/main.b40a36e4.css.map",
+    "main.c18acaae.js.map": "/algocoretech.mernproject.github.io/static/js/main.c18acaae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b40a36e4.css",
+    "static/js/main.c18acaae.js"
+  ]
+}
